@@ -1,0 +1,60 @@
+about:
+  description: Visual testing tool for MCP servers
+  license: NOASSERTION
+  homepage: https://modelcontextprotocol.io/docs/2026-07-28/tools/inspector
+  head: 793d103
+  archived: false
+  latestVersion: 2.5.0
+  collectedAt: 2026-09-03T04:38:34Z
+timeline:
+  created: 2024-10-03
+  lastCommit: 2026-09-02
+  lastRelease: 2026-09-02
+popularity:
+  star: 10816
+  watcher: 68
+  fork: 1501
+  release: 63
+  contributor: 216
+  pullRequest: 354
+  issue: 1038
+language:
+  TypeScript: 9630799
+  JavaScript: 650367
+  CSS: 28408
+  HTML: 17813
+  Dockerfile: 3677
+totalLine: 10331064
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 6
+    mergedPR: 129
+    openPR: 1
+    closedIssue: 134
+    openIssue: 27
+    commit: 611
+  last90d:
+    since: 2026-06-05
+    release: 12
+    mergedPR: 304
+    openPR: 2
+    closedIssue: 359
+    openIssue: 34
+    commit: 889
+  last180d:
+    since: 2026-03-07
+    release: 14
+    mergedPR: 398
+    openPR: 2
+    closedIssue: 477
+    openIssue: 35
+    commit: 1088
+  last360d:
+    since: 2025-09-08
+    release: 27
+    mergedPR: 500
+    openPR: 2
+    closedIssue: 637
+    openIssue: 39
+    commit: 1294
