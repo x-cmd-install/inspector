@@ -1,0 +1,173 @@
+about:
+  description: "Visual testing tool for MCP servers"
+  license: NOASSERTION
+  homepage: https://modelcontextprotocol.io/docs/2026-07-28/tools/inspector
+  head: 793d103
+  archived: false
+  latestVersion: "2.5.0"
+  collectedAt: 2026-09-07T04:38:44Z
+timeline:
+  created: 2024-10-03
+  lastCommit: 2026-09-02
+  lastRelease: 2026-09-02
+popularity:
+  star: 10834
+  watcher: 69
+  fork: 1504
+  release: 63
+  contributor: 146
+  pullRequest: 1198
+  issue: 1062
+language:
+  TypeScript: 9630799
+  JavaScript: 650367
+  CSS: 28408
+  HTML: 17813
+  Dockerfile: 3677
+totalBytes: 10331064
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 5
+    mergedPR: 153
+    openPR: 2
+    closedIssue: 149
+    openIssue: 14
+    commit: 524
+  last60d:
+    since: 2026-07-09
+    release: 12
+    mergedPR: 261
+    openPR: 3
+    closedIssue: 300
+    openIssue: 21
+    commit: 712
+  last90d:
+    since: 2026-06-09
+    release: 12
+    mergedPR: 328
+    openPR: 3
+    closedIssue: 389
+    openIssue: 22
+    commit: 867
+  last180d:
+    since: 2026-03-11
+    release: 14
+    mergedPR: 423
+    openPR: 3
+    closedIssue: 512
+    openIssue: 23
+    commit: 1084
+  last360d:
+    since: 2025-09-12
+    release: 27
+    mergedPR: 526
+    openPR: 3
+    closedIssue: 670
+    openIssue: 26
+    commit: 1283
+  last720d:
+    since: 2024-09-17
+    release: 63
+    mergedPR: 842
+    openPR: 3
+    closedIssue: 1036
+    openIssue: 26
+    commit: 3482
+total:
+  release: 63
+  mergedPR: 842
+  openPR: 3
+  closedIssue: 1036
+  openIssue: 26
+  commit: 3482
+---
+path: /home/runner/.x-repo/github.com/modelcontextprotocol/inspector
+collectedAt: 2026-09-07T04:38:52Z
+loc:
+  TypeScript:
+    code: 123421
+    comments: 29573
+    blanks: 13381
+    files: 617
+  Tsx:
+    code: 85867
+    comments: 10338
+    blanks: 8029
+    files: 467
+  Json:
+    code: 22482
+    comments: 0
+    blanks: 6
+    files: 61
+  JavaScript:
+    code: 11089
+    comments: 4536
+    blanks: 951
+    files: 69
+  Css:
+    code: 309
+    comments: 233
+    blanks: 82
+    files: 1
+  Svg:
+    code: 48
+    comments: 0
+    blanks: 0
+    files: 3
+  Html:
+    code: 30
+    comments: 31
+    blanks: 0
+    files: 2
+  Dockerfile:
+    code: 23
+    comments: 38
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 11098
+    blanks: 3565
+    files: 47
+total:
+  code: 244084
+  comments: 56014
+  blanks: 26083
+  files: 1268
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:38:59+00:00
+  platform:
+    darwin/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    darwin/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
