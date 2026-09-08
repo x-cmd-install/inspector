@@ -5,7 +5,7 @@ about:
   head: 793d103
   archived: false
   latestVersion: "2.5.0"
-  collectedAt: 2026-09-08T01:46:47Z
+  collectedAt: 2026-09-08T04:40:45Z
 timeline:
   created: 2024-10-03
   lastCommit: 2026-09-02
@@ -17,7 +17,7 @@ popularity:
   release: 63
   contributor: 146
   pullRequest: 1202
-  issue: 1064
+  issue: 1066
 language:
   TypeScript: 9630799
   JavaScript: 650367
@@ -32,7 +32,7 @@ recent:
     mergedPR: 157
     openPR: 1
     closedIssue: 155
-    openIssue: 9
+    openIssue: 11
     commit: 524
   last60d:
     since: 2026-07-10
@@ -40,7 +40,7 @@ recent:
     mergedPR: 264
     openPR: 2
     closedIssue: 305
-    openIssue: 15
+    openIssue: 17
     commit: 712
   last90d:
     since: 2026-06-10
@@ -48,7 +48,7 @@ recent:
     mergedPR: 331
     openPR: 2
     closedIssue: 397
-    openIssue: 16
+    openIssue: 18
     commit: 867
   last180d:
     since: 2026-03-12
@@ -56,7 +56,7 @@ recent:
     mergedPR: 427
     openPR: 2
     closedIssue: 518
-    openIssue: 17
+    openIssue: 19
     commit: 1084
   last360d:
     since: 2025-09-13
@@ -64,7 +64,7 @@ recent:
     mergedPR: 529
     openPR: 2
     closedIssue: 676
-    openIssue: 20
+    openIssue: 22
     commit: 1283
   last720d:
     since: 2024-09-18
@@ -72,18 +72,18 @@ recent:
     mergedPR: 846
     openPR: 2
     closedIssue: 1044
-    openIssue: 20
+    openIssue: 22
     commit: 3482
 total:
   release: 63
   mergedPR: 846
   openPR: 2
   closedIssue: 1044
-  openIssue: 20
+  openIssue: 22
   commit: 3482
 ---
 path: /home/runner/.x-repo/github.com/modelcontextprotocol/inspector
-collectedAt: 2026-09-08T01:46:51Z
+collectedAt: 2026-09-08T04:40:50Z
 loc:
   TypeScript:
     code: 123421
