@@ -25,7 +25,7 @@ x install inspector
 
 ## 流行度
 
-- **Star**: 10,852 · **Fork**: 1,509 · **开放 issue**: 1,079 · **贡献者**: 146
+- **Star**: 10,854 · **Fork**: 1,510 · **开放 issue**: 1,079 · **贡献者**: 146
 
 ## 累计统计
 
@@ -51,6 +51,14 @@ x install inspector
 | JavaScript | 16,798 | 6,315 | 1,374 | 75 |
 | Css | 309 | 233 | 82 | 1 |
 
+## 发行版状态
+
+在 repology.org 上共有 **9** 个发行版报告此项目。**8** 个已是最新上游版本，**0** 个使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `0.2.0` | ✓ latest |
+
 ## 改进这些数据
 
 inspector 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `inspector` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -60,4 +68,4 @@ inspector 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:21:09Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T18:29:40Z._
