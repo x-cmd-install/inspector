@@ -22,23 +22,22 @@ x install inspector
 
 - **Latest**: `2.6.0` (2026-09-09)
 - **Last commit**: 2026-09-09
-- **Published**: 2026-09-09T16:07:28Z
 
 ## Popularity
 
-- **Stars**: 10,846 · **Forks**: 1,510 · **Open issues**: 1,074 · **Contributors**: 146
+- **Stars**: 10,852 · **Forks**: 1,509 · **Open issues**: 1,079 · **Contributors**: 146
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 850 · **Open PRs**: 3 · **Closed issues**: 1049 · **Open issues**: 25 · **Commits**: 3716
+- **Releases**: 64 · **Merged PRs**: 850 · **Open PRs**: 3 · **Closed issues**: 1049 · **Open issues**: 30 · **Commits**: 3716
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 6 | 146 | 2 | 151 | 14 | 698 |
-| 90d | 2026-06-12 | 13 | 333 | 3 | 400 | 21 | 1041 |
-| 360d | 2025-09-15 | 27 | 532 | 3 | 679 | 25 | 1457 |
+| 30d | 2026-08-11 | 6 | 146 | 2 | 151 | 19 | 698 |
+| 90d | 2026-06-12 | 13 | 333 | 3 | 400 | 26 | 1041 |
+| 360d | 2025-09-15 | 27 | 532 | 3 | 679 | 30 | 1457 |
 
 ## Code size
 
@@ -57,8 +56,8 @@ Total: **264,543** lines of code across **1271** files in the top 5 languages.
 Install metadata for inspector lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `inspector` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/inspector.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/inspector.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:47:21Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:21:09Z._
