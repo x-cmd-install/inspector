@@ -7,7 +7,7 @@ about:
   latestVersion: "2.6.0"
   latestRelease: "2.6.0"
   latestPrerelease: "2.0.0-rc.3"
-  collectedAt: 2026-09-10T20:08:23Z
+  collectedAt: 2026-09-10T23:35:54Z
 timeline:
   created: 2024-10-03
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2026-07-28
 popularity:
-  star: 10855
+  star: 10856
   watcher: 69
   fork: 1510
   release: 64
@@ -87,7 +87,7 @@ total:
   commit: 3716
 ---
 path: /home/runner/.x-repo/github.com/modelcontextprotocol/inspector
-collectedAt: 2026-09-10T20:08:27Z
+collectedAt: 2026-09-10T23:35:58Z
 loc:
   TypeScript:
     code: 131582
