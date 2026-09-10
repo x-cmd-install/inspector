@@ -7,7 +7,7 @@ about:
   latestVersion: "2.6.0"
   latestRelease: "2.6.0"
   latestPrerelease: "2.0.0-rc.3"
-  collectedAt: 2026-09-10T18:29:30Z
+  collectedAt: 2026-09-10T20:08:23Z
 timeline:
   created: 2024-10-03
   lastCommit: 2026-09-09
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2026-07-28
 popularity:
-  star: 10854
+  star: 10855
   watcher: 69
   fork: 1510
   release: 64
   contributor: 146
   pullRequest: 1207
-  issue: 1079
+  issue: 1080
 language:
   TypeScript: 10559620
   JavaScript: 946461
@@ -36,7 +36,7 @@ recent:
     mergedPR: 146
     openPR: 2
     closedIssue: 151
-    openIssue: 19
+    openIssue: 20
     commit: 698
   last60d:
     since: 2026-07-12
@@ -44,7 +44,7 @@ recent:
     mergedPR: 260
     openPR: 3
     closedIssue: 298
-    openIssue: 25
+    openIssue: 26
     commit: 886
   last90d:
     since: 2026-06-12
@@ -52,7 +52,7 @@ recent:
     mergedPR: 333
     openPR: 3
     closedIssue: 400
-    openIssue: 26
+    openIssue: 27
     commit: 1041
   last180d:
     since: 2026-03-14
@@ -60,7 +60,7 @@ recent:
     mergedPR: 431
     openPR: 3
     closedIssue: 523
-    openIssue: 27
+    openIssue: 28
     commit: 1258
   last360d:
     since: 2025-09-15
@@ -68,7 +68,7 @@ recent:
     mergedPR: 532
     openPR: 3
     closedIssue: 679
-    openIssue: 30
+    openIssue: 31
     commit: 1457
   last720d:
     since: 2024-09-20
@@ -76,18 +76,18 @@ recent:
     mergedPR: 850
     openPR: 3
     closedIssue: 1049
-    openIssue: 30
+    openIssue: 31
     commit: 3716
 total:
   release: 64
   mergedPR: 850
   openPR: 3
   closedIssue: 1049
-  openIssue: 30
+  openIssue: 31
   commit: 3716
 ---
 path: /home/runner/.x-repo/github.com/modelcontextprotocol/inspector
-collectedAt: 2026-09-10T18:29:35Z
+collectedAt: 2026-09-10T20:08:27Z
 loc:
   TypeScript:
     code: 131582
