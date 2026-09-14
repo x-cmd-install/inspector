@@ -37,30 +37,22 @@ Total: **264,543** lines of code across **1271** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,870 · **Forks**: 1,512 · **Open issues**: 1,101 · **Contributors**: 146
+- **Stars**: 10,872 · **Forks**: 1,515 · **Open issues**: 1,111 · **Contributors**: 146
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 861 · **Open PRs**: 2 · **Closed issues**: 1066 · **Open issues**: 35 · **Commits**: 3716
+- **Releases**: 64 · **Merged PRs**: 873 · **Open PRs**: 7 · **Closed issues**: 1084 · **Open issues**: 27 · **Commits**: 3716
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 5 | 146 | 1 | 154 | 23 | 698 |
-| last60d | 2026-07-15 | 13 | 266 | 2 | 305 | 30 | 886 |
-| 90d | 2026-06-15 | 13 | 330 | 2 | 402 | 30 | 1041 |
-| last180d | 2026-03-17 | 15 | 437 | 2 | 537 | 32 | 1258 |
-| 360d | 2025-09-18 | 26 | 540 | 2 | 687 | 35 | 1457 |
-| last720d | 2024-09-23 | 64 | 861 | 2 | 1066 | 35 | 3716 |
-
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/inspector). **8** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.2.0` | ✅ latest |
+| 30d | 2026-08-15 | 5 | 153 | 6 | 162 | 17 | 587 |
+| last60d | 2026-07-16 | 13 | 276 | 7 | 320 | 22 | 859 |
+| 90d | 2026-06-16 | 13 | 340 | 7 | 420 | 22 | 1031 |
+| last180d | 2026-03-18 | 15 | 449 | 7 | 555 | 24 | 1235 |
+| 360d | 2025-09-19 | 26 | 551 | 7 | 704 | 27 | 1448 |
+| last720d | 2024-09-24 | 64 | 873 | 7 | 1084 | 27 | 3716 |
 
 ## Improve this data
 
@@ -71,4 +63,4 @@ Install metadata for inspector lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:06:44Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:04:27Z._
