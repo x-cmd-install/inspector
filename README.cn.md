@@ -4,7 +4,7 @@
 
 Visual testing tool for MCP servers
 
-![inspector](https://repo.x-cmd.io/inspector.svg?lang=zh)
+[![x-cmd/install — inspector Code Quality Monitoring Repo Card](https://repo.x-cmd.io/inspector.svg?lang=zh)](https://x-cmd.com/install/inspector)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install inspector
 
 ## 流行度
 
-- **Star**: 10,904 · **Fork**: 1,518 · **开放 issue**: 1,151 · **贡献者**: 146
+- **Star**: 10,913 · **Fork**: 1,522 · **开放 issue**: 1,165 · **贡献者**: 146
 
 ## 累计统计
 
-- **发布数**: 65 · **已合并 PR**: 894 · **开放 PR**: 11 · **已关闭 issue**: 1113 · **开放 issue**: 38 · **提交数**: 3887
+- **发布数**: 65 · **已合并 PR**: 895 · **开放 PR**: 3 · **已关闭 issue**: 1115 · **开放 issue**: 50 · **提交数**: 3887
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 6 | 152 | 2 | 167 | 31 | 712 |
-| last60d | 2026-07-20 | 13 | 279 | 3 | 344 | 33 | 984 |
-| 90d | 2026-06-20 | 14 | 357 | 3 | 446 | 33 | 1156 |
-| last180d | 2026-03-22 | 16 | 470 | 11 | 584 | 35 | 1360 |
-| 360d | 2025-09-23 | 27 | 571 | 11 | 730 | 38 | 1573 |
-| last720d | 2024-09-28 | 65 | 894 | 11 | 1113 | 38 | 3887 |
+| 30d | 2026-08-21 | 5 | 151 | 2 | 164 | 43 | 712 |
+| last60d | 2026-07-22 | 13 | 274 | 3 | 340 | 45 | 984 |
+| 90d | 2026-06-22 | 14 | 357 | 3 | 447 | 45 | 1156 |
+| last180d | 2026-03-24 | 16 | 471 | 3 | 585 | 47 | 1360 |
+| 360d | 2025-09-25 | 27 | 570 | 3 | 730 | 50 | 1573 |
+| last720d | 2024-09-30 | 65 | 895 | 3 | 1115 | 50 | 3887 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ inspector 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:57:34Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:11:25Z._
