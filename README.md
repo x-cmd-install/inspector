@@ -14,14 +14,14 @@ x install inspector
 
 ## Code insight
 
-Total: **275,661** lines of code across **1310** files in the top 5 languages.
+Total: **285,629** lines of code across **1336** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 139,710 | 36,398 | 15,072 | 680 |
-| Tsx | 93,994 | 12,819 | 8,664 | 477 |
-| Json | 22,759 | 0 | 6 | 71 |
-| JavaScript | 18,788 | 7,217 | 1,529 | 81 |
+| TypeScript | 147,514 | 38,702 | 15,832 | 697 |
+| Tsx | 94,545 | 12,959 | 8,733 | 480 |
+| Json | 22,833 | 0 | 6 | 71 |
+| JavaScript | 20,326 | 7,612 | 1,648 | 87 |
 | Css | 309 | 233 | 82 | 1 |
 
 ## Source
@@ -32,27 +32,27 @@ Total: **275,661** lines of code across **1310** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `2.8.0` (2026-09-23)
-- **Last commit**: 2026-09-23
+- **Latest**: `2.9.0` (2026-09-30)
+- **Last commit**: 2026-09-30
 
 ## Popularity
 
-- **Stars**: 10,988 · **Forks**: 1,532 · **Open issues**: 1,209 · **Contributors**: 146
+- **Stars**: 10,994 · **Forks**: 1,535 · **Open issues**: 1,227 · **Contributors**: 146
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 939 · **Open PRs**: 2 · **Closed issues**: 1165 · **Open issues**: 44 · **Commits**: 3983
+- **Releases**: 67 · **Merged PRs**: 946 · **Open PRs**: 3 · **Closed issues**: 1171 · **Open issues**: 56 · **Commits**: 4175
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 4 | 130 | 1 | 157 | 35 | 348 |
-| last60d | 2026-08-01 | 9 | 258 | 1 | 308 | 38 | 989 |
-| 90d | 2026-07-02 | 15 | 366 | 2 | 445 | 39 | 1151 |
-| last180d | 2026-04-03 | 17 | 513 | 2 | 627 | 41 | 1397 |
-| 360d | 2025-10-05 | 27 | 612 | 2 | 774 | 44 | 1617 |
-| last720d | 2024-10-10 | 66 | 931 | 2 | 1159 | 44 | 3958 |
+| 30d | 2026-09-01 | 5 | 134 | 2 | 151 | 47 | 475 |
+| last60d | 2026-08-02 | 10 | 263 | 2 | 311 | 50 | 1116 |
+| 90d | 2026-07-03 | 16 | 371 | 3 | 451 | 51 | 1278 |
+| last180d | 2026-04-04 | 18 | 519 | 3 | 632 | 53 | 1524 |
+| 360d | 2025-10-06 | 28 | 619 | 3 | 779 | 56 | 1744 |
+| last720d | 2024-10-11 | 67 | 937 | 3 | 1165 | 56 | 4147 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for inspector lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:35:54Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:53:22Z._
