@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Visual testing tool for MCP servers
+Deterministic testing tools for MCP servers
 
 [![x-cmd/install — inspector Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/inspector.svg)](https://x-cmd.com/install/inspector)
 
@@ -14,14 +14,14 @@ x install inspector
 
 ## Code insight
 
-Total: **342,929** lines of code across **1563** files in the top 5 languages.
+Total: **347,475** lines of code across **1577** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 186,073 | 45,131 | 18,965 | 839 |
-| Tsx | 100,654 | 13,767 | 9,198 | 496 |
-| JavaScript | 30,838 | 9,954 | 2,432 | 150 |
-| Json | 24,953 | 0 | 6 | 77 |
+| TypeScript | 191,496 | 46,332 | 19,425 | 853 |
+| Tsx | 100,901 | 13,798 | 9,221 | 496 |
+| JavaScript | 31,229 | 10,005 | 2,448 | 150 |
+| Json | 23,438 | 0 | 6 | 77 |
 | Css | 309 | 233 | 82 | 1 |
 
 ## Source
@@ -32,27 +32,27 @@ Total: **342,929** lines of code across **1563** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `2.12.0` (2026-10-21)
-- **Last commit**: 2026-10-21
+- **Latest**: `2.13.0` (2026-10-28)
+- **Last commit**: 2026-10-28
 
 ## Popularity
 
-- **Stars**: 11,172 · **Forks**: 1,551 · **Open issues**: 1,350 · **Contributors**: 147
+- **Stars**: 11,182 · **Forks**: 1,551 · **Open issues**: 1,384 · **Contributors**: 147
 
 ## Totals (cumulative)
 
-- **Releases**: 72 · **Merged PRs**: 1075 · **Open PRs**: 0 · **Closed issues**: 1336 · **Open issues**: 14 · **Commits**: 4679
+- **Releases**: 73 · **Merged PRs**: 1080 · **Open PRs**: 8 · **Closed issues**: 1341 · **Open issues**: 43 · **Commits**: 4751
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 6 | 138 | 0 | 141 | 7 | 253 |
-| last60d | 2026-08-29 | 10 | 268 | 0 | 327 | 10 | 849 |
-| 90d | 2026-07-30 | 15 | 406 | 0 | 498 | 11 | 1471 |
-| last180d | 2026-05-01 | 22 | 615 | 0 | 762 | 12 | 1788 |
-| 360d | 2025-11-02 | 31 | 730 | 0 | 913 | 14 | 2057 |
-| last720d | 2024-11-07 | 71 | 1050 | 0 | 1320 | 14 | 4593 |
+| 30d | 2026-09-29 | 7 | 143 | 8 | 141 | 36 | 296 |
+| last60d | 2026-08-30 | 11 | 272 | 8 | 328 | 39 | 892 |
+| 90d | 2026-07-31 | 16 | 407 | 8 | 495 | 40 | 1514 |
+| last180d | 2026-05-02 | 23 | 620 | 8 | 766 | 41 | 1831 |
+| 360d | 2025-11-03 | 32 | 734 | 8 | 917 | 43 | 2100 |
+| last720d | 2024-11-08 | 72 | 1055 | 8 | 1325 | 43 | 4658 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for inspector lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:42:54Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:49:33Z._
