@@ -1,0 +1,114 @@
+- repo: alt_p11
+  srcname: inspector
+  binnames:
+    - inspector
+  visiblename: inspector
+  version: 0.2.0
+  origversion: 0.2.0-alt2
+  status: newest
+  summary: Graphical system information tool
+  maintainers:
+    - aris@altlinux.org
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - System/Kernel and hardware
+- repo: altsisyphus
+  srcname: inspector
+  binnames:
+    - inspector
+  visiblename: inspector
+  version: 0.2.0
+  origversion: 0.2.0-alt2
+  status: newest
+  summary: Graphical system information tool
+  maintainers:
+    - aris@altlinux.org
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - System/Kernel and hardware
+- repo: aur
+  srcname: inspector
+  binname: inspector
+  visiblename: inspector
+  version: 0.2.0
+  origversion: 0.2.0-3
+  status: newest
+  summary: Gives information about your system
+  maintainers:
+    - begin-theadventu@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: aur
+  srcname: inspector-git
+  binname: inspector-git
+  visiblename: inspector-git
+  version: 0.2.0.r27.g80bcbfa
+  origversion: 0.2.0.r27.g80bcbfa-1
+  status: rolling
+  summary: Gives information about your system
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_24_11
+  srcname: inspector
+  visiblename: inspector
+  version: 0.2.0
+  origversion: null
+  status: newest
+  summary: Gtk4 Libadwaita wrapper for various system info cli commands
+  maintainers:
+    - mksafavi@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+    - CC0-1.0
+- repo: nix_stable_25_05
+  srcname: inspector
+  visiblename: inspector
+  version: 0.2.0
+  origversion: null
+  status: newest
+  summary: Gtk4 Libadwaita wrapper for various system info cli commands
+  maintainers:
+    - mksafavi@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+    - CC0-1.0
+- repo: nix_stable_25_11
+  srcname: inspector
+  visiblename: inspector
+  version: 0.2.0
+  origversion: null
+  status: newest
+  summary: Gtk4 Libadwaita wrapper for various system info cli commands
+  maintainers:
+    - mksafavi@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+    - CC0-1.0
+- repo: nix_stable_26_05
+  srcname: inspector
+  visiblename: inspector
+  version: 0.2.0
+  origversion: null
+  status: newest
+  summary: Gtk4 Libadwaita wrapper for various system info cli commands
+  maintainers:
+    - mksafavi@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+    - CC0-1.0
+- repo: nix_unstable
+  srcname: inspector
+  visiblename: inspector
+  version: 0.2.0
+  origversion: null
+  status: newest
+  summary: Gtk4 Libadwaita wrapper for various system info cli commands
+  maintainers:
+    - mksafavi@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+    - CC0-1.0
