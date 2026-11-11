@@ -37,7 +37,7 @@ Total: **353,234** lines of code across **1597** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,267 · **Forks**: 1,564 · **Open issues**: 1,420 · **Contributors**: 148
+- **Stars**: 11,272 · **Forks**: 1,567 · **Open issues**: 1,420 · **Contributors**: 148
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **353,234** lines of code across **1597** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 6 | 138 | 0 | 131 | 6 | 130 |
-| last60d | 2026-09-11 | 11 | 273 | 0 | 313 | 14 | 642 |
-| 90d | 2026-08-12 | 17 | 414 | 0 | 484 | 15 | 1375 |
-| last180d | 2026-05-14 | 25 | 664 | 0 | 817 | 16 | 1862 |
-| 360d | 2025-11-15 | 34 | 781 | 0 | 969 | 18 | 2133 |
-| last720d | 2024-11-20 | 73 | 1082 | 0 | 1384 | 18 | 4652 |
+| 30d | 2026-10-12 | 6 | 103 | 0 | 118 | 6 | 130 |
+| last60d | 2026-09-12 | 11 | 270 | 0 | 304 | 14 | 642 |
+| 90d | 2026-08-13 | 16 | 414 | 0 | 484 | 15 | 1375 |
+| last180d | 2026-05-15 | 25 | 663 | 0 | 815 | 16 | 1862 |
+| 360d | 2025-11-16 | 34 | 781 | 0 | 969 | 18 | 2133 |
+| last720d | 2024-11-21 | 73 | 1080 | 0 | 1384 | 18 | 4640 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for inspector lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:29:12Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:17:18Z._
