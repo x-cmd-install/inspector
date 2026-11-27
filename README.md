@@ -32,27 +32,27 @@ Total: **382,213** lines of code across **1721** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `2.16.0` (2026-11-18)
+- **Latest**: `1.0.7` (2026-11-27)
 - **Last commit**: 2026-11-18
 
 ## Popularity
 
-- **Stars**: 11,362 · **Forks**: 1,592 · **Open issues**: 1,476 · **Contributors**: 149
+- **Stars**: 11,371 · **Forks**: 1,590 · **Open issues**: 1,485 · **Contributors**: 149
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1181 · **Open PRs**: 0 · **Closed issues**: 1458 · **Open issues**: 18 · **Commits**: 5033
+- **Releases**: 80 · **Merged PRs**: 1188 · **Open PRs**: 1 · **Closed issues**: 1465 · **Open issues**: 20 · **Commits**: 5033
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 7 | 106 | 0 | 119 | 7 | 170 |
-| last60d | 2026-09-27 | 13 | 245 | 0 | 264 | 12 | 549 |
-| 90d | 2026-08-28 | 17 | 378 | 0 | 449 | 15 | 1113 |
-| last180d | 2026-05-30 | 29 | 688 | 0 | 837 | 16 | 1991 |
-| 360d | 2025-12-01 | 36 | 823 | 0 | 1010 | 18 | 2269 |
-| last720d | 2024-12-06 | 68 | 1112 | 0 | 1428 | 18 | 4787 |
+| 30d | 2026-10-28 | 8 | 109 | 1 | 99 | 9 | 0 |
+| last60d | 2026-09-28 | 14 | 251 | 1 | 269 | 14 | 0 |
+| 90d | 2026-08-29 | 18 | 381 | 1 | 455 | 17 | 0 |
+| last180d | 2026-05-31 | 30 | 694 | 1 | 840 | 18 | 0 |
+| 360d | 2025-12-02 | 37 | 830 | 1 | 1015 | 20 | 0 |
+| last720d | 2024-12-07 | 69 | 1118 | 1 | 1434 | 20 | 4780 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for inspector lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:31:29Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:24:49Z._
