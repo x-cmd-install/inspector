@@ -1,0 +1,149 @@
+about:
+  description: "Deterministic testing tools for MCP servers"
+  license: NOASSERTION
+  homepage: https://modelcontextprotocol.io/docs/2026-07-28/tools/inspector
+  head: 2069a1a
+  archived: false
+  latestVersion: "2.17.0"
+  latestRelease: "2.17.0"
+  latestPrerelease: "2.0.0-rc.3"
+  collectedAt: 2026-11-28T07:43:40Z
+timeline:
+  created: 2024-10-03
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
+  lastPrerelease: 2026-07-28
+popularity:
+  star: 11377
+  watcher: 70
+  fork: 1591
+  release: 81
+  contributor: 149
+  pullRequest: 1557
+  issue: 1498
+language:
+  TypeScript: 16214229
+  JavaScript: 1693443
+  CSS: 35637
+  HTML: 28169
+  Dockerfile: 7489
+totalBytes: 17978967
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 8
+    mergedPR: 102
+    openPR: 0
+    closedIssue: 93
+    openIssue: 20
+    commit: 238
+  last60d:
+    since: 2026-09-29
+    release: 15
+    mergedPR: 253
+    openPR: 0
+    closedIssue: 266
+    openIssue: 25
+    commit: 617
+  last90d:
+    since: 2026-08-30
+    release: 19
+    mergedPR: 382
+    openPR: 0
+    closedIssue: 453
+    openIssue: 28
+    commit: 1181
+  last180d:
+    since: 2026-06-01
+    release: 31
+    mergedPR: 691
+    openPR: 0
+    closedIssue: 836
+    openIssue: 29
+    commit: 2059
+  last360d:
+    since: 2025-12-03
+    release: 38
+    mergedPR: 831
+    openPR: 0
+    closedIssue: 1017
+    openIssue: 31
+    commit: 2337
+  last720d:
+    since: 2024-12-08
+    release: 70
+    mergedPR: 1118
+    openPR: 0
+    closedIssue: 1436
+    openIssue: 31
+    commit: 4878
+total:
+  release: 81
+  mergedPR: 1190
+  openPR: 0
+  closedIssue: 1467
+  openIssue: 31
+  commit: 5133
+---
+path: /home/runner/.x-repo/github.com/modelcontextprotocol/inspector
+collectedAt: 2026-11-28T07:43:45Z
+loc:
+  TypeScript:
+    code: 235652
+    comments: 54461
+    blanks: 22869
+    files: 1019
+  Tsx:
+    code: 113002
+    comments: 14907
+    blanks: 10213
+    files: 560
+  JavaScript:
+    code: 32273
+    comments: 10404
+    blanks: 2545
+    files: 154
+  Json:
+    code: 22893
+    comments: 0
+    blanks: 6
+    files: 81
+  Css:
+    code: 460
+    comments: 275
+    blanks: 98
+    files: 2
+  Svg:
+    code: 48
+    comments: 0
+    blanks: 0
+    files: 3
+  Dockerfile:
+    code: 39
+    comments: 76
+    blanks: 11
+    files: 1
+  Html:
+    code: 27
+    comments: 55
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 14785
+    blanks: 4439
+    files: 57
+  Text:
+    code: 0
+    comments: 150
+    blanks: 36
+    files: 2
+total:
+  code: 405671
+  comments: 95433
+  blanks: 40318
+  files: 1881
+---
+
+---
